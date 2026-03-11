@@ -102,8 +102,8 @@ A structured test suite including:
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your LinkedIn link)
-- Email: (Your professional email)
+- LinkedIn: https://www.linkedin.com/in/anelisiwe-mahlungulu-ab787317b/
+- Email: mahlunguluanelisiwe@gmail.com
 
 ---
 
